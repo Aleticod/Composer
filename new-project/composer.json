@@ -1,0 +1,24 @@
+{
+    "name": "harvey/new-project",
+    "description": "Creacion de un projecto con composer",
+    "type": "library",
+    "require": {
+        "nesbot/carbon": "3.x-dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "10.0.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Harvey\\NewProject\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "me",
+            "email": "193837@unsaac.edu.pe"
+        }
+    ],
+    "minimum-stability": "dev"
+}
