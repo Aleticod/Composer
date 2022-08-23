@@ -1,6 +1,7 @@
 composer.phar
 php-unit/vendor
 new-project/vendor
+autoload/vendor
 
 #/vendor/
 
